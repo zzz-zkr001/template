@@ -1,0 +1,3 @@
+# cargo-generate.toml
+[template]
+exclude = ["cliff.toml"]
